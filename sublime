@@ -1,0 +1,29 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Colorsublime - Themes/Material.tmTheme",
+	"draw_centered": true,
+	"font_face": "mononoki",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 8,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_bold_tab": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme"
+}
