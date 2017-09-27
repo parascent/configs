@@ -14,7 +14,11 @@
         "editorGroupHeader.tabsBackground": "#ccc",
         "tab.inactiveBackground": "#ccc",
         "editorGroup.border": "#aaa",
-        "tab.border": "#aaa"
+        "tab.border": "#aaa",
+        "scrollbarSlider.activeBackground": "#aaa",
+		"scrollbarSlider.background": "#aaa",
+        "scrollbarSlider.hoverBackground": "#aaa",
+        "scrollbar.shadow": "#aaa"
     },
 "editor.showFoldingControls": "always"
 }
