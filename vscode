@@ -1,5 +1,3 @@
-//With default light theme
-
 {
     "window.zoomLevel": 0,
     "editor.tabSize": 2,
@@ -7,12 +5,16 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.colorCustomizations": {
-        "editor.background": "#dddddd",
-        "sideBar.background": "#dddddd",
-        "editorOverviewRuler.border": "#dddddd",
+        "editor.background": "#ddd",
+        "sideBar.background": "#ddd",
+        "editorOverviewRuler.border": "#ddd",
         "activityBar.background": "#dddd",
-        "activityBar.border": "#000",
-        "activityBar.foreground": "#000"
+        "activityBar.border": "#aaa",
+        "activityBar.foreground": "#000",
+        "editorGroupHeader.tabsBackground": "#ccc",
+        "tab.inactiveBackground": "#ccc",
+        "editorGroup.border": "#aaa",
+        "tab.border": "#aaa"
     },
 "editor.showFoldingControls": "always"
 }
