@@ -22,5 +22,6 @@
         "scrollbarSlider.hoverBackground": "#aaa",
         "scrollbar.shadow": "#aaa"
     },
-"editor.showFoldingControls": "always"
+"editor.showFoldingControls": "always",
+"editor.mouseWheelZoom": true
 }
