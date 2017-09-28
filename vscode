@@ -1,28 +1,31 @@
 {
-  "window.zoomLevel": 0,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "editor.fontFamily": "mononoki",
-  "editor.lineHeight": 23,
-  "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.colorCustomizations": {
-      "editor.background": "#ddd",
-      "sideBar.background": "#ddd",
-      "editorOverviewRuler.border": "#ddd",
-      "activityBar.background": "#dddd",
-      "activityBar.border": "#aaa",
-      "activityBar.foreground": "#000",
-      "editorGroupHeader.tabsBackground": "#ccc",
-      "tab.inactiveBackground": "#ccc",
-      "editorGroup.border": "#aaa",
-      "tab.border": "#aaa",
-      "scrollbarSlider.activeBackground": "#aaa",
-  "scrollbarSlider.background": "#aaa",
-      "scrollbarSlider.hoverBackground": "#aaa",
-      "scrollbar.shadow": "#aaa"
-  },
-"editor.showFoldingControls": "always",
-"editor.mouseWheelZoom": true,
-"workbench.colorTheme": "Default Light+"
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "mononoki",
+    "editor.lineHeight": 23,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.colorCustomizations": {
+        "editor.background": "#ddd",
+        "sideBar.background": "#ddd",
+        "editorOverviewRuler.border": "#ddd",
+        "activityBar.background": "#dddd",
+        "activityBar.border": "#aaa",
+        "activityBar.foreground": "#000",
+        "editorGroupHeader.tabsBackground": "#ccc",
+        "tab.inactiveBackground": "#ccc",
+        "editorGroup.border": "#aaa",
+        "tab.border": "#aaa",
+        "scrollbarSlider.activeBackground": "#aaa",
+        "scrollbarSlider.background": "#aaa",
+        "scrollbarSlider.hoverBackground": "#aaa",
+        "scrollbar.shadow": "#aaa"
+    },
+    "editor.showFoldingControls": "always",
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Default Light+",
+    "debugwrapper.wrappers": {
+        "vue":"console.log('$eSEL', $SEL)"
+    }
 }
