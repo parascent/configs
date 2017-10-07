@@ -27,5 +27,7 @@
     "workbench.colorTheme": "Default Light+",
     "debugwrapper.wrappers": {
         "vue":"console.log('$eSEL', $SEL)"
-    }
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
 }
