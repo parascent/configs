@@ -4,7 +4,7 @@
     "editor.wordWrap": "on",
     "editor.fontFamily": "mononoki",
     "editor.lineHeight": 23,
-    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreview": true,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.colorCustomizations": {
         "editor.background": "#ddd",
@@ -29,5 +29,7 @@
         "vue":"console.log('$eSEL', $SEL)"
     },
     "editor.formatOnPaste": true,
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.enableSmartCommit": true
 }
